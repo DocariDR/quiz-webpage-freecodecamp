@@ -42,6 +42,12 @@ nav > ul > li {
   display: block;
 }
 
+nav li:hover {
+  background-color: #dfdfe2;
+  color: #1b1b32;
+  cursor: pointer;
+}
+
 li > a {
   text-decoration: none;
   color: #dfdfe2;
