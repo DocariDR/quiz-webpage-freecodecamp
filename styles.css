@@ -95,6 +95,11 @@ input {
   font-size: 1em;
 }
 
+.info input {
+  text-align: left;
+  width: 50%;
+}
+
 h3::before {
   content:  "Question #";
 }
