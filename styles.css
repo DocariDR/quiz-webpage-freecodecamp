@@ -86,6 +86,11 @@ h2 {
   padding: 10px 0 0 10px;
 }
 
+.formrow {
+  margin-top: 25px;
+  padding: 0 50px;
+}
+
 h3::before {
   content:  "Question #";
 }
