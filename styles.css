@@ -31,6 +31,12 @@ main {
   padding-top: 25px;
 }
 
+section {
+  width: 80%;
+  max-width: 600px;
+  margin: 0 auto 10px;
+}
+
 nav {
   width: 50%;
   max-width: 300px;
