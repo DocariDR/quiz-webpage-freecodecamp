@@ -91,6 +91,10 @@ h2 {
   padding: 0 50px;
 }
 
+input {
+  font-size: 1em;
+}
+
 h3::before {
   content:  "Question #";
 }
