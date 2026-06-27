@@ -160,6 +160,12 @@ button {
   border: 3px solid #3b3b4f;
 }
 
+button:hover {
+  background: #3b3b4f;
+  color: #f5f6f7;
+  cursor: pointer;
+}
+
 button:focus-visible {
   outline: 3px solid #1b1b32;
   outline-offset: 3px;
