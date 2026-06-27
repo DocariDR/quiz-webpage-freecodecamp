@@ -78,6 +78,11 @@ li > a {
   color: inherit;
 }
 
+nav a:focus-visible {
+  outline: 2px solid #f1be32;
+  outline-offset: 2px;
+}
+
 h1, h2 {
   font-family: Verdana, sans-serif;
 }
