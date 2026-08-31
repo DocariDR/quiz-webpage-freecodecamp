@@ -1,20 +1,36 @@
 # Quiz Webpage
 
-Page de quiz interactive en HTML/CSS, construite avec une attention particulière à l'accessibilité des formulaires.
+Page de quiz réalisée dans le parcours **freeCodeCamp — Responsive Web Design**. L'exercice met l'accent sur la construction d'un formulaire structuré et l'attention portée à l'accessibilité des champs et contrôles.
 
-![Statut](https://img.shields.io/badge/statut-terminé-brightgreen) ![Cours](https://img.shields.io/badge/freeCodeCamp-Responsive%20Web%20Design-0a0a23)
+![Statut](https://img.shields.io/badge/Statut-Terminé-brightgreen) ![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-Responsive%20Web%20Design-0A0A23)
+
+## Aperçu
+
+![Capture d'écran du projet](./screenshot.png)
+
+## Compétences travaillées
+
+- Structuration d'un formulaire HTML
+- Utilisation de champs adaptés à différents types de réponses
+- Organisation sémantique du contenu
+- Prise en compte de l'accessibilité des formulaires
+- Mise en forme avec CSS
 
 ## Technologies
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+- HTML5
+- CSS3
 
-## Aperçu 
-![Aperçu du projet](./screenshot.png)
+## Démo
 
-## Démo en ligne
+[Voir la démo en ligne](https://docaridr.github.io/quiz-webpage-freecodecamp/)
 
-[Quiz Webpage](https://docaridr.github.io/quiz-webpage-freecodecamp/)
+## Statut
+
+**Projet terminé — exercice d'apprentissage freeCodeCamp.**
 
 ## Auteur
 
-**DocariDR**
+**Ricardo DOVONOU — DocariDR**
+
+[GitHub](https://github.com/DocariDR) · [LinkedIn](https://www.linkedin.com/in/ricardo-dovonou)
